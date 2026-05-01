@@ -1,3 +1,22 @@
+# Hospital Delivery Robot (ROS 2 + Gazebo)
+
+## Overview
+Autonomous hospital delivery robot simulation using ROS 2 and Gazebo.
+
+## Demo Video
+
+## Features
+- Differential drive robot
+- Obstacle avoidance
+- Hospital environment simulation
+
+## How to Run
+```bash
+source /opt/ros/jazzy/setup.bash
+colcon build
+ros2 launch simulation.launch.py
+
+
 # Hospital-Drug-Delivery
 Hospital Drug Delivery Mobile Robot Simulation  
 import numpy as np
