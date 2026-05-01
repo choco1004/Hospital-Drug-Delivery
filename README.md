@@ -67,7 +67,7 @@ else:
 Autonomous hospital delivery robot simulation using ROS 2 and Gazebo.
 
 ## Demo Video
-
+https://studio.youtube.com/video/OtlEBUTG7Do/edit
 ## Features
 - Differential drive robot
 - Obstacle avoidance
