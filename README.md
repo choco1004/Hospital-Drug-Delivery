@@ -1,3 +1,5 @@
+
+
 source /opt/ros/jazzy/setup.bash
 colcon build
 ros2 launch simulation.launch.py
