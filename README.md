@@ -1,4 +1,13 @@
 Hospital Drug Delivery Robot 
+
+Designed for scalable hospital automation systems
+
+AUTONOMOUS DELIVERY ROBOT
+
+Future integration with AI-based path optimization
+
+Autonomous Hospital Delivery Robot | ROS2 + Gazebo Simulation | AI Robotics Portfolio
+
 GAZEBO SIMULATION VIDEO : https://studio.youtube.com/video/OtlEBUTG7Do/edit
 
 source /opt/ros/jazzy/setup.bash
