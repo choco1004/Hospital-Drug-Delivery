@@ -3,6 +3,14 @@ Hospital Drug Delivery Mobile Robot Simulation
 import numpy as np
 import matplotlib.pyplot as plt
 
+drug_delivery_hospital/
+├── README.md   ← (미리 만들어)
+├── worlds/
+├── models/
+├── launch/
+├── src/
+└── videos/
+
 # Target position (robot goal)
 target_x = 5.0
 target_y = 5.0
