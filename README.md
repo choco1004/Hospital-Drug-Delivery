@@ -299,23 +299,6 @@ else:
     print("Robot is still navigating...")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Hospital Delivery Robot (ROS 2 + Gazebo)
 
 ## Overview
