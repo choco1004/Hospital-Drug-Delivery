@@ -304,14 +304,13 @@ else:
 # Hospital Delivery Robot (ROS 2 + Gazebo)
 
 ## Overview
+
 Autonomous hospital delivery robot simulation using ROS 2 and Gazebo.
 
 ## Demo Video
+
 https://studio.youtube.com/video/OtlEBUTG7Do/edit
 
-https://www.youtube.com/watch?v=HY1NJFGmMUg
-
-https://studio.youtube.com/video/GycP0SJv3eI/edit
 ## Features
 - Differential drive robot
 - Obstacle avoidance
